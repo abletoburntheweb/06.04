@@ -1,0 +1,35 @@
+[
+    {"title": "Numb", "artist": "Linkin Park", "genre": "рок", "popularity": 90},
+    {"title": "Lost", "artist": "Linkin Park", "genre": "рок", "popularity": 85},
+    {"title": "Say It Ain't So", "artist": "Weezer", "genre": "рок", "popularity": 80},
+    {"title": "Everlong", "artist": "Foo Fighters", "genre": "рок", "popularity": 86},
+    {"title": "Seven Nation Army", "artist": "The White Stripes", "genre": "рок", "popularity": 89},
+    {"title": "Californication", "artist": "Red Hot Chili Peppers", "genre": "рок", "popularity": 87},
+
+    {"title": "Let You Down", "artist": "NF", "genre": "рэп", "popularity": 88},
+    {"title": "HUMBLE.", "artist": "Kendrick Lamar", "genre": "рэп", "popularity": 90},
+    {"title": "God's Plan", "artist": "Drake", "genre": "рэп", "popularity": 85},
+    {"title": "Sicko Mode", "artist": "Travis Scott", "genre": "рэп", "popularity": 83},
+    {"title": "Rockstar", "artist": "Post Malone", "genre": "рэп", "popularity": 89},
+
+    {"title": "Blurryface", "artist": "Twenty One Pilots", "genre": "альтернатива", "popularity": 82},
+    {"title": "Somebody Told Me", "artist": "The Killers", "genre": "альтернатива", "popularity": 84},
+    {"title": "Take Me Out", "artist": "Franz Ferdinand", "genre": "альтернатива", "popularity": 86},
+
+    {"title": "Clocks", "artist": "Coldplay", "genre": "поп", "popularity": 87},
+    {"title": "Shape of You", "artist": "Ed Sheeran", "genre": "поп", "popularity": 90},
+    {"title": "Blinding Lights", "artist": "The Weeknd", "genre": "поп", "popularity": 92},
+    {"title": "Levitating", "artist": "Dua Lipa", "genre": "поп", "popularity": 88},
+
+    {"title": "Nocturne", "artist": "Chopin", "genre": "классика", "popularity": 92},
+    {"title": "Moonlight Sonata", "artist": "Beethoven", "genre": "классика", "popularity": 94},
+    {"title": "Clair de Lune", "artist": "Debussy", "genre": "классика", "popularity": 91},
+
+    {"title": "Jazz Vibes", "artist": "Smooth Jazz Band", "genre": "джаз", "popularity": 75},
+    {"title": "Take Five", "artist": "Dave Brubeck", "genre": "джаз", "popularity": 88},
+    {"title": "So What", "artist": "Miles Davis", "genre": "джаз", "popularity": 90},
+
+    {"title": "Strobe", "artist": "Deadmau5", "genre": "электронная", "popularity": 85},
+    {"title": "Ghosts 'n' Stuff", "artist": "Deadmau5", "genre": "электронная", "popularity": 83},
+    {"title": "Titanium", "artist": "David Guetta", "genre": "электронная", "popularity": 89}
+]

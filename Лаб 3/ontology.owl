@@ -1,0 +1,250 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="urn:webprotege:ontology:54d985fb-28c6-44fc-a33d-8f3367344e8f#"
+     xml:base="urn:webprotege:ontology:54d985fb-28c6-44fc-a33d-8f3367344e8f"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:webprotege="http://webprotege.stanford.edu/">
+    <owl:Ontology rdf:about="urn:webprotege:ontology:54d985fb-28c6-44fc-a33d-8f3367344e8f"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/RJuqb488e0RejV7T2yQZ8R -->
+
+    <owl:AnnotationProperty rdf:about="http://webprotege.stanford.edu/RJuqb488e0RejV7T2yQZ8R">
+        <rdfs:label>LinkinPark</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9ZM41x7Y6qT61OhQNSdi75 -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R9ZM41x7Y6qT61OhQNSdi75">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/R7b1q7VOEhLDCTcGLcD69NW"/>
+        <rdfs:range rdf:resource="http://webprotege.stanford.edu/R9IuvmCqoBzf2Ry0VLvbQKb"/>
+        <rdfs:label>имеет жанр</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBLce8t08tzlSxsdX5WF6lZ -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RBLce8t08tzlSxsdX5WF6lZ">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/R7b1q7VOEhLDCTcGLcD69NW"/>
+        <rdfs:range rdf:resource="http://webprotege.stanford.edu/RYpenbVAyegkZsZHzPZhwg"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">исполняет</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RSmag2mMeaQfBHV3CYtmnG -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RSmag2mMeaQfBHV3CYtmnG">
+        <rdfs:domain rdf:resource="http://webprotege.stanford.edu/R7b1q7VOEhLDCTcGLcD69NW"/>
+        <rdfs:range rdf:resource="http://webprotege.stanford.edu/RB7bdkJ41sKzQ65b5qD5xxy"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">выпущен в году</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7b1q7VOEhLDCTcGLcD69NW -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7b1q7VOEhLDCTcGLcD69NW">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Трек</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9IuvmCqoBzf2Ry0VLvbQKb -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9IuvmCqoBzf2Ry0VLvbQKb">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>Жанр</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB7bdkJ41sKzQ65b5qD5xxy -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RB7bdkJ41sKzQ65b5qD5xxy">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>Год выпуска</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RYpenbVAyegkZsZHzPZhwg -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RYpenbVAyegkZsZHzPZhwg">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>Исполнитель</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7XkxQ9PDrNe7EWXWSLIxwe -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7XkxQ9PDrNe7EWXWSLIxwe">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RB7bdkJ41sKzQ65b5qD5xxy"/>
+        <rdfs:label>1990-е</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R84XPjg2YT7ly9gNY3q5U8d -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R84XPjg2YT7ly9gNY3q5U8d">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Пауэр-поп</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8JsIoUOkOGIGNQfcMU4UF -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8JsIoUOkOGIGNQfcMU4UF">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RB7bdkJ41sKzQ65b5qD5xxy"/>
+        <rdfs:label>2000-е</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8X8jDG5DWq73MtGpGBzvmn -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8X8jDG5DWq73MtGpGBzvmn">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RYpenbVAyegkZsZHzPZhwg"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LinkinPark</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8irvEutEMruEbvKBkfPWX9 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8irvEutEMruEbvKBkfPWX9">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7b1q7VOEhLDCTcGLcD69NW"/>
+        <webprotege:R9ZM41x7Y6qT61OhQNSdi75 rdf:resource="http://webprotege.stanford.edu/R84XPjg2YT7ly9gNY3q5U8d"/>
+        <webprotege:RBLce8t08tzlSxsdX5WF6lZ rdf:resource="http://webprotege.stanford.edu/Ru3oeQ0zL8dp93sz36EgLX"/>
+        <webprotege:RSmag2mMeaQfBHV3CYtmnG rdf:resource="http://webprotege.stanford.edu/R7XkxQ9PDrNe7EWXWSLIxwe"/>
+        <rdfs:label>Say It Ain&apos;t So</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8pYiPdCfiZyb8L1BIf4XG3 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8pYiPdCfiZyb8L1BIf4XG3">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9IuvmCqoBzf2Ry0VLvbQKb"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ню-метал</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBmWOyKi04ON665rd3of9j1 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBmWOyKi04ON665rd3of9j1">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7b1q7VOEhLDCTcGLcD69NW"/>
+        <webprotege:R9ZM41x7Y6qT61OhQNSdi75 rdf:resource="http://webprotege.stanford.edu/R8pYiPdCfiZyb8L1BIf4XG3"/>
+        <webprotege:RBLce8t08tzlSxsdX5WF6lZ rdf:resource="http://webprotege.stanford.edu/R8X8jDG5DWq73MtGpGBzvmn"/>
+        <webprotege:RSmag2mMeaQfBHV3CYtmnG rdf:resource="http://webprotege.stanford.edu/R8JsIoUOkOGIGNQfcMU4UF"/>
+        <rdfs:label>Somewhere I Belong</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDLvO7ODgXG6UxkGP3Mh7by -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDLvO7ODgXG6UxkGP3Mh7by">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RB7bdkJ41sKzQ65b5qD5xxy"/>
+        <rdfs:label>2020-е</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RTUYs3cvJTJIvpefJCSAsC -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RTUYs3cvJTJIvpefJCSAsC">
+        <rdfs:label>Рэп</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RVhqSpxtuY7Qs07QBrvGZX -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RVhqSpxtuY7Qs07QBrvGZX">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RYpenbVAyegkZsZHzPZhwg"/>
+        <rdfs:label>NF</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Ru3oeQ0zL8dp93sz36EgLX -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Ru3oeQ0zL8dp93sz36EgLX">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RYpenbVAyegkZsZHzPZhwg"/>
+        <rdfs:label>Weezer</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rz9cY5Zdrj6TcpZSyCclgA -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Rz9cY5Zdrj6TcpZSyCclgA">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7b1q7VOEhLDCTcGLcD69NW"/>
+        <webprotege:R9ZM41x7Y6qT61OhQNSdi75 rdf:resource="http://webprotege.stanford.edu/RTUYs3cvJTJIvpefJCSAsC"/>
+        <webprotege:RBLce8t08tzlSxsdX5WF6lZ rdf:resource="http://webprotege.stanford.edu/RVhqSpxtuY7Qs07QBrvGZX"/>
+        <webprotege:RSmag2mMeaQfBHV3CYtmnG rdf:resource="http://webprotege.stanford.edu/RDLvO7ODgXG6UxkGP3Mh7by"/>
+        <rdfs:label>LAYERS</rdfs:label>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.13) https://github.com/owlcs/owlapi -->
+

@@ -1,0 +1,164 @@
+{
+  "music_recommendations": [
+    {
+      "genre": "Рок",
+      "decade": "1990",
+      "artists": ["Nirvana", "Red Hot Chili Peppers", "Oasis"]
+    },
+    {
+      "genre": "Рок",
+      "decade": "2000",
+      "artists": ["Foo Fighters", "Green Day", "The White Stripes"]
+    },
+    {
+      "genre": "Рок",
+      "decade": "2010",
+      "artists": ["Adele", "Imagine Dragons", "Tame Impala"]
+    },
+    {
+      "genre": "Рок",
+      "decade": "2020",
+      "artists": ["Royal Blood", "Arctic Monkeys", "The 1975"]
+    },
+    {
+      "genre": "Рэп",
+      "decade": "1990",
+      "artists": ["Tupac", "The Notorious B.I.G.", "Dr. Dre"]
+    },
+    {
+      "genre": "Рэп",
+      "decade": "2000",
+      "artists": ["Eminem", "50 Cent", "Kanye West"]
+    },
+    {
+      "genre": "Рэп",
+      "decade": "2010",
+      "artists": ["NF", "Kendrick Lamar", "Post Malone"]
+    },
+    {
+      "genre": "Рэп",
+      "decade": "2020",
+      "artists": ["Lil Wayne", "Drake", "Lil Nas X"]
+    },
+    {
+      "genre": "Альтернатива",
+      "decade": "1990",
+      "artists": ["Weezer", "Radiohead", "Pearl Jam"]
+    },
+    {
+      "genre": "Альтернатива",
+      "decade": "2000",
+      "artists": ["Coldplay", "The Killers", "Muse"]
+    },
+    {
+      "genre": "Альтернатива",
+      "decade": "2010",
+      "artists": ["Vampire Weekend", "Arcade Fire", "Foals"]
+    },
+    {
+      "genre": "Альтернатива",
+      "decade": "2020",
+      "artists": ["Clairo", "Arlo Parks", "Courtney Barnett"]
+    },
+    {
+      "genre": "Поп",
+      "decade": "1990",
+      "artists": ["Britney Spears", "Backstreet Boys", "Christina Aguilera"]
+    },
+    {
+      "genre": "Поп",
+      "decade": "2000",
+      "artists": ["Alicia Keys", "Beyoncé", "Rihanna"]
+    },
+    {
+      "genre": "Поп",
+      "decade": "2010",
+      "artists": ["Ariana Grande", "Adele", "Ed Sheeran"]
+    },
+    {
+      "genre": "Поп",
+      "decade": "2020",
+      "artists": ["Olivia Rodrigo", "Harry Styles", "Billie Eilish"]
+    },
+    {
+      "genre": "Электронная",
+      "decade": "1990",
+      "artists": ["The Chemical Brothers", "The Prodigy", "Fatboy Slim"]
+    },
+    {
+      "genre": "Электронная",
+      "decade": "2000",
+      "artists": ["Deadmau5", "Skrillex", "Calvin Harris"]
+    },
+    {
+      "genre": "Электронная",
+      "decade": "2010",
+      "artists": ["Daft Punk", "Zedd", "Avicii"]
+    },
+    {
+      "genre": "Электронная",
+      "decade": "2020",
+      "artists": ["Porter Robinson", "RÜFÜS DU SOL", "Alesso"]
+    },
+    {
+      "genre": "Матрок",
+      "decade": "2000",
+      "artists": ["toe", "The Fall of Troy", "Don Caballero"]
+    },
+    {
+      "genre": "Матрок",
+      "decade": "2010",
+      "artists": ["black midi", "tricot", "TTNG"]
+    },
+    {
+      "genre": "Матрок",
+      "decade": "2020",
+      "artists": ["Tsumiki 「ツミキ」", "Luge", "Elephant Gym 「大象體操」"]
+    },
+    {
+      "genre": "Поп-панк",
+      "decade": "2000",
+      "artists": ["Sum 41", "The All-American Rejects", "My Chemical Romance"]
+    },
+    {
+      "genre": "Поп-панк",
+      "decade": "2010",
+      "artists": ["Fall Out Boy", "The Story So Far", "Modern Baseball"]
+    },
+    {
+      "genre": "Поп-панк",
+      "decade": "2020",
+      "artists": ["Machine Gun Kelly", "Origami Angel", "Lil Tecca"]
+    },
+    {
+      "genre": "Шугейз",
+      "decade": "2000",
+      "artists": ["The Sleepwalk", "Alcest", "honeydip"]
+    },
+    {
+      "genre": "Шугейз",
+      "decade": "2010",
+      "artists": ["Kinoko Teikoku 「きのこ帝国」", "Slowdive", "My Dead Girlfriend 「死んだ僕の彼女」"]
+    },
+    {
+      "genre": "Шугейз",
+      "decade": "2020",
+      "artists": ["Parannoul 「파란노을」", "what is your name?", "Tokyo Shoegazer「東京酒吐座」"]
+    },
+    {
+      "genre": "Металкор",
+      "decade": "2000",
+      "artists": ["Story Of The Year", "Admiral Angry", "Norma Jean"]
+    },
+    {
+      "genre": "Металкор",
+      "decade": "2010",
+      "artists": ["The Dillinger Escape Plan", "Every Time I Die", "Counterparts"]
+    },
+    {
+      "genre": "Металкор",
+      "decade": "2020",
+      "artists": ["Killing Me Softly", "Every Time I Die", "Between the Buried and Me"]
+    }
+  ]
+}
